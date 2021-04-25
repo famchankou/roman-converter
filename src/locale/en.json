@@ -1,0 +1,11 @@
+{
+  "general.button.convert": "Convert",
+  "general.title.tonum": "To Numeric",
+  "general.title.toroman": "To Roman",
+  "general.select.conversion": "Select conversion",
+  "general.input.value": "Specify number",
+  "general.input.placeholder.roman": "XXI",
+  "general.input.placeholder.numeric": "120",
+  "general.warning.value.invalid": "Invalid value has been provided",
+  "general.header.title": "Roman numerals converter"
+}

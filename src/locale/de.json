@@ -1,0 +1,11 @@
+{
+  "general.button.convert": "Konvertieren",
+  "general.title.tonum": "Zu Numerisch",
+  "general.title.toroman": "Zu Römisch",
+  "general.select.conversion": "Konvertierung auswählen",
+  "general.input.value": "Nummer angeben",
+  "general.input.placeholder.roman": "XXI",
+  "general.input.placeholder.numeric": "120",
+  "general.warning.value.invalid": "Es wurde ein ungültiger Wert angegeben",
+  "general.header.title": "Konverter für römische Ziffern"
+}
